@@ -1,0 +1,12 @@
+    .formation-page {
+        display: flex;
+        width: 70%;
+        margin: auto;
+    }
+    .formation-page {
+        min-height: 603px;
+    }
+    
+    .detailFormation {
+        width: 80%;
+    }

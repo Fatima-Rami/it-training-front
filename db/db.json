@@ -1,0 +1,20 @@
+{
+    "sessions": [
+        {
+            "id": 27,
+            "numero": 1235498,
+            "dateDebut": "25 Novembre 2020",
+            "dateFin": "30 Decembre 2020",
+            "prix": "3050 €",
+            "lieu": "Lille"
+        },
+        {
+            "id": 28,
+            "numero": 12354987,
+            "dateDebut": "22 Janvier 2021",
+            "dateFin": "28 Mars 2021",
+            "prix": "3050 €",
+            "lieu": "Grenoble"
+        }
+    ]
+}

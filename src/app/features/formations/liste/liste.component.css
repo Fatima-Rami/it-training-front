@@ -1,0 +1,5 @@
+.formation-liste{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
